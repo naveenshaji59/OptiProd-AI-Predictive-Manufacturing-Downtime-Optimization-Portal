@@ -36,13 +36,19 @@ optiprod_ai/
 
 ⚙️ ##Installation & Setup Instructions
 1.Install Dependencies
+
 <img width="1915" height="1079" alt="Screenshot 2026-07-10 110810" src="https://github.com/user-attachments/assets/c4c282fd-e521-4250-9b9f-71b1b4a0ed07" />
 
 2. cd optiprod_ai
+
 <img width="1919" height="1079" alt="Screenshot 2026-07-10 112433" src="https://github.com/user-attachments/assets/e2be0359-eece-438d-8dfb-0d71d1ebda3d" />
+
 3.Train the AI Model
+
 4.Boot the Portal Dashboard
+
 <img width="1919" height="1079" alt="Screenshot 2026-07-10 112359" src="https://github.com/user-attachments/assets/5da28ef4-0b47-4ff6-94d7-8fe8ce17b3db" />
+
 <img width="1919" height="1079" alt="Screenshot 2026-07-10 112413" src="https://github.com/user-attachments/assets/675d82cd-91dc-48a1-b7c4-d45961e59f31" />
 
 
