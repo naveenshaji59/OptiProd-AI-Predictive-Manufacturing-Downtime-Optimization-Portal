@@ -36,8 +36,8 @@ optiprod_ai/
 
 ⚙️ ##Installation & Setup Instructions
 1.Install Dependencies
+<img width="1915" height="1079" alt="Screenshot 2026-07-10 110810" src="https://github.com/user-attachments/assets/7c7f9b92-bd1f-40f6-9c5b-8a38e3a55400" />
 
-<img width="1915" height="1079" alt="Screenshot 2026-07-10 110810" src="https://github.com/user-attachments/assets/c4c282fd-e521-4250-9b9f-71b1b4a0ed07" />
 
 2. cd optiprod_ai
 
